@@ -1,0 +1,10 @@
+John "My name is John. This game jam was my first, I didn't finish my game, but I sure as hell am going to! Now that I don't have only 48 hours, though, I'll put some polish in first."
+"Thanks for the great experience, and well done to all the incredible game makers who did manage to <color=orange>finish</color> something."
+"Here's a key." getItem("Key")
+
+Alice "Thank you John."
+
+John "What is your name?"
+
+Alice "My name is Alice."
+"Nice to meet you."

@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trist\\Glimmer 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\InventoryPanel.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\InventoryPanel.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\CommandsManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\Dialogue\\CommandsManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\ConversationManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\Dialogue\\ConversationManager.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DialogueSystem.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\Dialogue\\DialogueSystem.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DIALOGUE_LINE.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\Dialogue\\DIALOGUE_LINE.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DialogueParser.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\Dialogue\\DialogueParser.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\TextArchitect.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\Dialogue\\TextArchitect.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\testFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MAIN\\Scripts\\testFile.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "testFile.txt",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\testFile.txt",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\testFile.txt",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\testFile.txt",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\testFile.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-30T02:56:10.709Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryPanel.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\InventoryPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\InventoryPanel.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\InventoryPanel.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\InventoryPanel.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADgvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:10:15.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommandsManager.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\CommandsManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\Dialogue\\CommandsManager.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\CommandsManager.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\Dialogue\\CommandsManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T09:11:08.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversationManager.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\ConversationManager.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\Dialogue\\ConversationManager.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\ConversationManager.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\Dialogue\\ConversationManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T23:56:04.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogueSystem.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DialogueSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\Dialogue\\DialogueSystem.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DialogueSystem.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\Dialogue\\DialogueSystem.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEIAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:46:12.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextArchitect.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\TextArchitect.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\Dialogue\\TextArchitect.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\TextArchitect.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\Dialogue\\TextArchitect.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T01:06:00.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DialogueParser.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DialogueParser.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\Dialogue\\DialogueParser.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DialogueParser.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\Dialogue\\DialogueParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:30:22.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DIALOGUE_LINE.cs",
+              "DocumentMoniker": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DIALOGUE_LINE.cs",
+              "RelativeDocumentMoniker": "Assets\\MAIN\\Scripts\\Dialogue\\DIALOGUE_LINE.cs",
+              "ToolTip": "C:\\Users\\trist\\Glimmer 4\\Assets\\MAIN\\Scripts\\Dialogue\\DIALOGUE_LINE.cs",
+              "RelativeToolTip": "Assets\\MAIN\\Scripts\\Dialogue\\DIALOGUE_LINE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T04:15:16.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
